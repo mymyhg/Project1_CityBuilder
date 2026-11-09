@@ -1,0 +1,33 @@
+# ---- Unity generated folders (do NOT upload these - Unity rebuilds them) ----
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# ---- Visual Studio / Rider / editor files ----
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.booproj
+*.svd
+*.pidb
+
+# ---- OS clutter ----
+.DS_Store
+Thumbs.db
+
+# ---- Crash reports ----
+sysinfo.txt
+*.stackdump
+
+# ---- Personal notes (kept local, not uploaded) ----
+*.pdf
+*.docx
